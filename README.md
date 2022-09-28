@@ -1,4 +1,4 @@
-# DH110-22F-Vicky
+# DH110-22F
 
 ## [PROJECT NAME]
 ### Vicky Jen in DH110
