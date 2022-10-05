@@ -30,12 +30,9 @@ _Overall Evaluation_: The website has structure and potential to it, however the
    </td>
   </tr>
   <tr>
-   <td>
-<ol>
-
-<li>Visibility of system status: The website clearly informs the user about its current status
-</li>
-</ol>
+   <td>1. <strong>Visibility of system status</strong>
+<p>
+The website clearly informs the user about its current status
    </td>
    <td>Good: The website highlights the tab that the user is currently in to indicate where they are in the website. 
 <p>
@@ -49,7 +46,7 @@ Bad: The website’s highlighting function has a glitch where two tabs are highl
    </td>
   </tr>
   <tr>
-   <td>2. Match between system and the real world
+   <td>2. <strong>Match between system and the real world</strong>
 <p>
 The website should use words, phrases, and concepts familiar to the user and avoid internal jargon. 
    </td>
@@ -65,7 +62,7 @@ Bad: The website does not use full sentences for article headings.
    </td>
   </tr>
   <tr>
-   <td>3. User control and freedom
+   <td>3. <strong>User control and freedom</strong>
 <p>
 The website allows for the user to undo and cancel unwanted actions easily. 
    </td>
@@ -77,7 +74,7 @@ The website allows for the user to undo and cancel unwanted actions easily.
    </td>
   </tr>
   <tr>
-   <td>4. Consistency and standards
+   <td>4. <strong>Consistency and standards</strong>
 <p>
 The website maintains standard conventions. 
    </td>
@@ -91,7 +88,7 @@ Bad: The different tabs the website has are unconventional and unclear about its
    </td>
   </tr>
   <tr>
-   <td>5. Error prevention
+   <td>5. <strong>Error prevention</strong>
 <p>
 The website prevents errors by checking thoroughly and showing an error page when needed.
    </td>
@@ -103,7 +100,7 @@ The website prevents errors by checking thoroughly and showing an error page whe
    </td>
   </tr>
   <tr>
-   <td>6. Recognition rather than recall
+   <td>6. <strong>Recognition rather than recall</strong>
 <p>
 The website helps users remember information with helpful tips.
    </td>
@@ -115,7 +112,7 @@ The website helps users remember information with helpful tips.
    </td>
   </tr>
   <tr>
-   <td>7. Flexibility and efficiency of use
+   <td>7.<strong> Flexibility and efficiency of use</strong>
 <p>
 The website design caters to both experienced and inexperienced users.
    </td>
@@ -127,7 +124,7 @@ The website design caters to both experienced and inexperienced users.
    </td>
   </tr>
   <tr>
-   <td>8. Aesthetic and minimalist design
+   <td>8. <strong>Aesthetic and minimalist design</strong>
 <p>
 The website only contains relevant information.
    </td>
@@ -139,7 +136,7 @@ The website only contains relevant information.
    </td>
   </tr>
   <tr>
-   <td>9. Help users recognize, diagnose, and recover from errors
+   <td>9. <strong>Help users recognize, diagnose, and recover from errors</strong>
 <p>
 The error messages are clear and easy to understand
    </td>
@@ -151,7 +148,7 @@ The error messages are clear and easy to understand
    </td>
   </tr>
   <tr>
-   <td>10. Help and documentation
+   <td>10. <strong>Help and documentation</strong>
 <p>
 The website provides instructions 
    </td>
@@ -163,3 +160,4 @@ The website provides instructions
    </td>
   </tr>
 </table>
+
