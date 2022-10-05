@@ -10,7 +10,7 @@ As a student living in Los Angeles and an International student from Taiwan, I'v
 
 ### About The Project
 In this assignment, I will be conducting a heuristic evaluation through examining the 10 Usability Heuristics of User Interface Designs and Severity Ratings for Usability Problems. The two websites are, Ocean Protection Council and Surfrider Foundation. 
----
+
 ## Website 1 
 
 ##### Background Information 
