@@ -171,7 +171,6 @@ The California Surfrider Foundation is a non-profit environmental organization t
 
 _Overall Evaluation_: The website is very well-rounded in terms of information, links, and places to donate. The primary function of the website flows well, and is organized in a comprehensive manner. 
 
-
 <table>
   <tr>
    <td>Heuristic & Description
@@ -218,9 +217,11 @@ The website allows for the user to undo and cancel unwanted actions easily.
    </td>
    <td>Good: The website has places to allow the user to cancel donations
 <p>
-Bad: The website’s header is always there for the user to return to the homepage or previous page
+Good: The website’s header is always there for the user to return to the homepage or previous page.
+<p>
+Bad: After clicking cancel on the donation page, the website leads to the nationwide Surfrider page instead of the California branch – where the user initially started.
    </td>
-   <td>N/A
+   <td>Redirect the user back to the California Surfrider website instead of Nationwide Surfrider to maintain consistency
    </td>
    <td>1
    </td>
@@ -316,5 +317,3 @@ Bad: The donation page may be a little too simple.
    </td>
   </tr>
 </table>
-
-
