@@ -8,7 +8,6 @@ This project will focus on the 14th Sustainable Development goals of 'Life Below
 
 As a student living in Los Angeles and an International student from Taiwan, I've been surrounded by the ocean my whole life, yet I have never been around it much until this last year. Learning how to surf has made me realize the lack of awareness regarding oceanic issues amongst the general community. However, being in the water constantly to surf, I've been able to see first-hand some effects of oceanic pollution. I want to use this UI project to create a website or mobile app to raise awareness about Oceanic protection to educate the general community on this topic.
 
-### About The Project
 In this assignment, I will be conducting a heuristic evaluation through examining the 10 Usability Heuristics of User Interface Designs and Severity Ratings for Usability Problems. The two websites are, Ocean Protection Council and Surfrider Foundation. 
 
 ## Website 1 
