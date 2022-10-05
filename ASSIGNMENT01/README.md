@@ -6,9 +6,9 @@
 ### About The Project
 This project will focus on the 14th Sustainable Development goals of 'Life Below Water' established by the United Nations to "conserve and sustainably use the oceans, sea, and marine resources for sustainable development". The project will mainly focus on the act of spreading information and awareness regarding Ocean conservation and protection in a variety of ways specifically in California, United States.  
 
-As a student living in Los Angeles and an International student from Taiwan, I've been surrounded by the ocean my whole life, yet I have never been around it much until this last year. Learning how to surf has made me realize the lack of awareness regarding oceanic issues amongst the general community. However, being in the water constantly to surf, I've been able to see first-hand some effects of oceanic pollution. I want to use this UI project to create a website or mobile app to raise awareness about Oceanic protection to educate the general community on this topic.
+As a student living in Los Angeles and an International student from Taiwan, I've been surrounded by the ocean my whole life, yet I have never been around it much until this last year. Learning how to surf has made me realize the lack of awareness regarding oceanic issues amongst the general community. However, being in the water constantly to surf, I've been able to see first-hand some effects of oceanic pollution. 
 
-In this assignment, I will be conducting a heuristic evaluation through examining the 10 Usability Heuristics of User Interface Designs and Severity Ratings for Usability Problems. The two websites are, Ocean Protection Council and Surfrider Foundation. 
+I want to use this UI project to create a website or mobile app to raise awareness about Oceanic protection to educate the general community on this topic to raise funds and support these causes. I want to create a website/app is able to identify the problem, explain it, show it, and convince the user to dontate towards it. In this assignment, I will be conducting a heuristic evaluation through examining the 10 Usability Heuristics of User Interface Designs and Severity Ratings for Usability Problems. The two websites are, Ocean Protection Council and Surfrider Foundation. 
 
 ## Website 1 : [https://www.opc.ca.gov/]
 
