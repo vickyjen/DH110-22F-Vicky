@@ -12,7 +12,7 @@ In this assignment, I will be conducting a heuristic evaluation through examinin
 
 ## Website 1 : [https://www.opc.ca.gov/]
 
-
+![Surfrider Home Page](./surfrider_home.png)
 
 ##### Background Information 
 The California Ocean Protection Council (OPC) was created by the California Ocean Protection Act (COPA), to ensure that California maintains healthy, resilient, and productive ocean and coastal ecosystems for the benefit of current and future generations. It mainly provides notes and information on meetings the council holds as well as the latest news.
