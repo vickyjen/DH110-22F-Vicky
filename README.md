@@ -161,3 +161,160 @@ The website provides instructions
   </tr>
 </table>
 
+## Website 2: [[https://california.surfrider.org/](https://california.surfrider.org/)]
+
+##### Background Information 
+
+The California Surfrider Foundation is a non-profit environmental organization that works to protect and preserve the world's oceans, waves and beaches. The website focuses on spreading awareness regarding this topic to promote donations towards these causes.
+
+ ##### Heuristic Evaluation 
+
+_Overall Evaluation_: The website is very well-rounded in terms of information, links, and places to donate. The primary function of the website flows well, and is organized in a comprehensive manner. 
+
+
+<table>
+  <tr>
+   <td>Heuristic & Description
+   </td>
+   <td>Evaluation
+   </td>
+   <td>Recommendation for “Bad” Element(s)
+   </td>
+   <td>Severity of “Bad” Element(s)
+   </td>
+  </tr>
+  <tr>
+   <td>1. <strong>Visibility of system status</strong>
+<p>
+The website clearly informs the user about its current status
+   </td>
+   <td>Good: The website shows very clearly where the user is located with big headers. 
+<p>
+Good: The website headers are highlighted when hovered over.
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>2. <strong>Match between system and the real world</strong>
+<p>
+The website should use words, phrases, and concepts familiar to the user and avoid internal jargon. 
+   </td>
+   <td>Good: Each portion of the website has a short description in easy to understand language targeting the user. 
+<p>
+Bad: The description is a little short and could be more descriptive
+   </td>
+   <td>Include a more detailed descriptions to help the user understand what these different topics are better. 
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>3. <strong>User control and freedom</strong>
+<p>
+The website allows for the user to undo and cancel unwanted actions easily. 
+   </td>
+   <td>Good: The website has places to allow the user to cancel donations
+<p>
+Bad: The website’s header is always there for the user to return to the homepage or previous page
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>4. <strong>Consistency and standards</strong>
+<p>
+The website maintains standard conventions. 
+   </td>
+   <td>Good: The website follows the general standard for climate conservation websites with similar terms. Eg. Donate, Campaigns..etc
+<p>
+Bad: The website is a branch of the nationwide website, but it is not consistent with it.
+   </td>
+   <td>The branch website for Surfrider California should be as structured and well made as the nationwide one to maintain consistency. 
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>5. <strong>Error prevention</strong>
+<p>
+The website prevents errors by checking thoroughly and showing an error page when needed.
+   </td>
+   <td>Good: The website does not have error pages as all links are working
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>6. <strong>Recognition rather than recall</strong>
+<p>
+The website helps users remember information with helpful tips.
+   </td>
+   <td>Good: The website constantly reminds users of what the purpose as well as the location this site is focusing on (California).
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>7.<strong> Flexibility and efficiency of use</strong>
+<p>
+The website design caters to both experienced and inexperienced users.
+   </td>
+   <td>Good: The website is easy to use for first-time users, but can also be used and accessed quickly by experienced users. 
+<p>
+Bad: There is no description for the “Coast & Legislation 2022” tab and only links.
+   </td>
+   <td>Provide a description about what “Coast & Legislation 2022” is about. 
+   </td>
+   <td>2
+   </td>
+  </tr>
+  <tr>
+   <td>8. <strong>Aesthetic and minimalist design</strong>
+<p>
+The website only contains relevant information.
+   </td>
+   <td>Good: The website is very minimalistic, well structured with bold headers, making it easy for the user to navigate. 
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>9. <strong>Help users recognize, diagnose, and recover from errors</strong>
+<p>
+The error messages are clear and easy to understand
+   </td>
+   <td>Good: The website has no error messages needed
+   </td>
+   <td>N/A
+   </td>
+   <td>1
+   </td>
+  </tr>
+  <tr>
+   <td>10. <strong>Help and documentation</strong>
+<p>
+The website provides instructions 
+   </td>
+   <td>Good: The website’s donation page is extremely simple.
+<p>
+Bad: The donation page may be a little too simple.
+   </td>
+   <td>The donation page could be more convincing with a motivating/inspiring reminder about the cause the user is supporting.
+   </td>
+   <td>1
+   </td>
+  </tr>
+</table>
+
+
