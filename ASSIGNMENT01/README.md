@@ -165,6 +165,8 @@ The website provides instructions
 
 ## Website 2: [[https://california.surfrider.org/](https://california.surfrider.org/)]
 
+![OPC_homepage](./opc_home.png)
+
 ##### Background Information 
 
 The California Surfrider Foundation is a non-profit environmental organization that works to protect and preserve the world's oceans, waves and beaches. The website focuses on spreading awareness regarding this topic to promote donations towards these causes.
