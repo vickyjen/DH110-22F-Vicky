@@ -1,4 +1,4 @@
-# DH110-22F
+# ASSIGNMENT #01: Heuristic Evaluation
 
 ## [PROJECT NAME]
 ### Vicky Jen in DH110
