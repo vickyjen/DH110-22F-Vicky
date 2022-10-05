@@ -1,7 +1,8 @@
 # ASSIGNMENT #01: Heuristic Evaluation
 
-## [PROJECT NAME]
-### Vicky Jen in DH110
+## Ocean Conservation and Protection in California 
+#### _By Vicky Jen| DH110: User Experience and Design_
 
-This project is about...
+### About The Project
+This project
 
