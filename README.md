@@ -10,7 +10,7 @@ As a student living in Los Angeles and an International student from Taiwan, I'v
 
 In this assignment, I will be conducting a heuristic evaluation through examining the 10 Usability Heuristics of User Interface Designs and Severity Ratings for Usability Problems. The two websites are, Ocean Protection Council and Surfrider Foundation. 
 
-## Website 1 
+## Website 1 : [https://www.opc.ca.gov/]
 
 ##### Background Information 
 The California Ocean Protection Council (OPC) was created by the California Ocean Protection Act (COPA), to ensure that California maintains healthy, resilient, and productive ocean and coastal ecosystems for the benefit of current and future generations. It mainly provides notes and information on meetings the council holds as well as the latest news.
