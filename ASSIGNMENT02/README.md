@@ -10,3 +10,7 @@ The California Surfrider website is a platform where users can get information r
 4. The help and documentation aspect of this website is not severly bad, but could be improved by adding persuasive texts and images on the donate page.   
 
 With these concerns, I will conduct a Usability Test (UT) to understand to what extent the app enhances or hinders the user's ability to complete tasks. The test will focus on the effectiveness, efficiency, and satisfaction of the California Surfrider website. 
+
+Effectiveness: The completeness and accuracy with which users achieve the task
+Efficiency: The resources needed and used in relation to the completeness and accuracy with which users complete the task.
+Satisfaction: The comfort and acceptability of use.
