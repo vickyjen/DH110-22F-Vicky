@@ -25,7 +25,7 @@ In this usability test, I will assign the user three tasks to perform within the
 The pilot usability testing took place in my apartment near UCLA located in Westwood (portable minimalistic lab). I will be conducting this test on my macbook pro and screen recording while using quicktime to record at the same time. I will start by asking the user for their informed consent, then the pre-test questionnaire will measure the user’s first impressions of the website. Following, the user will attempt 3 tasks to see how they are able to navigate the website. Then, the post-test questionnaire will measure the user’s experience using the app in terms of ease, time, and likelihood to perform the task again. The System Usability Scale (SUS) will measure the user’s attitude towards the website and its usability. The Product Satisfaction Cards are used to determine how the user feels about the website.
 
 ## Links
-- [UT Survey] (https://forms.gle/8vWMQxycnJLSdMgh7).
-- [Pilot UT Video] (https://drive.google.com/file/d/1eoxuVIpGzQpGFctACLuVTeMXFNunieE6/view?usp=sharing).
+- [UT Survey] (https://forms.gle/8vWMQxycnJLSdMgh7)
+- [Pilot UT Video] (https://drive.google.com/file/d/1eoxuVIpGzQpGFctACLuVTeMXFNunieE6/view?usp=sharing)
 
 #Reflection
