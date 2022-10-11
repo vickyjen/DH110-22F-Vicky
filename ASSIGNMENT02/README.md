@@ -12,7 +12,9 @@ The California Surfrider website is a platform where users can get information r
 With these concerns, I will conduct a Usability Test (UT) to understand to what extent the app enhances or hinders the user's ability to complete tasks. The test will focus on the effectiveness, efficiency, and satisfaction of the California Surfrider website. 
 
 **Effectiveness**: The completeness and accuracy with which users achieve the task
+
 **Efficiency**: The resources needed and used in relation to the completeness and accuracy with which users complete the task.
+
 **Satisfaction**: The comfort and acceptability of use.
 
 In this usability test, I will assign the user three tasks to perform within the website to evaluate. The purpose of a usability test intends to improve a website’s functionality from the user’s perspective. These will be the three tasks assigned:
