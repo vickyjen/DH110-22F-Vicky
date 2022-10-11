@@ -17,9 +17,9 @@ Satisfaction: The comfort and acceptability of use.
 
 In this usability test, I will assign the user three tasks to perform within the website to evaluate. The purpose of a usability test intends to improve a website’s functionality from the user’s perspective. These will be the three tasks assigned:
 
-Locate the most recent active campaign in California 
-Signup to become an Ocean Friendly Restaurants member
-Find an upcoming event to participate in the Los Angeles area to support ocean conservation and protection
+- Locate the most recent active campaign in California 
+- Signup to become an Ocean Friendly Restaurants member
+- Find an upcoming event to participate in the Los Angeles area to support ocean conservation and protection
 
 ### Methodology 
 
