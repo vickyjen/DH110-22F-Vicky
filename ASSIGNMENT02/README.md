@@ -27,6 +27,6 @@ The pilot usability testing took place in my apartment near UCLA located in West
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/embed/IboyHfL2jno" frameborder="0" allowfullscreen="true"> here </iframe>
 </figure>
 <!-- blank line →>
