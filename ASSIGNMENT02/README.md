@@ -1,7 +1,7 @@
 # ASSIGNMENT #02: Pilot Usability Testing
 ##### _By Vicky Jen| DH110: User Experience and Design_
 
-##Introduction
+### Introduction
 The California Surfrider website is a platform where users can get information regarding oceanic protection and conservation, donate towards the organization for related causes, and support active campaigns in the California region. The main objectives of the website is to provide updated information and serve as an outlet to help these causes. After conducting a heuristic evaluation on this website, there were some apparent problems: 
 
 1. The website fails to maintain consistency and standards between the nationwide Surfrider website despite being under the same organization. 
