@@ -19,7 +19,7 @@ In this usability test, I will assign the user three tasks to perform within the
 
 - Locate the most recent active campaign in California 
 - Signup to become an Ocean Friendly Restaurants member
-- Find an upcoming event to participate in the Los Angeles area to support ocean conservation and protection
+- Find an upcoming beach cleanup to participate in the Los Angeles area to support ocean conservation and protection
 
 ### Methodology 
 
