@@ -15,9 +15,7 @@ With these concerns, I will conduct a Usability Test (UT) to understand to what 
 
 **Efficiency**: The resources expended in relation to the accuracy and the completeness with which users achieve goals
 
-
 **Satisfaction**: Freedom from discomfort, and positive attitudes towards the use of the product
-
 
 In this usability test, I will assign the user five tasks to perform within the website to evaluate. The purpose of a usability test intends to improve a website’s functionality from the user’s perspective. These will be the five tasks assigned:
 
@@ -32,7 +30,7 @@ The pilot usability testing took place in my apartment near UCLA located in West
 
 ## Links
 - [UT Survey](https://forms.gle/8vWMQxycnJLSdMgh7)
-- [Pilot UT Video](https://drive.google.com/file/d/1eoxuVIpGzQpGFctACLuVTeMXFNunieE6/view?usp=sharing)
+- [Pilot UT Video](https://drive.google.com/file/d/13s2qwTlcMbb9kxB6KzpLZnoYQSRzvviP/view?usp=sharing)
 
 ## Reflection
 
