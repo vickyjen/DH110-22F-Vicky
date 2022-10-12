@@ -31,3 +31,6 @@ The pilot usability testing took place in my apartment near UCLA located in West
 - [Pilot UT Video](https://drive.google.com/file/d/1eoxuVIpGzQpGFctACLuVTeMXFNunieE6/view?usp=sharing)
 
 ## Reflection
+
+what went smoothly, what you learned from this pilot, what you would do differently
+
