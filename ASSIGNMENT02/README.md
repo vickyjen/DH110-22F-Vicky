@@ -7,7 +7,7 @@ The California Surfrider website is a platform where users can get information r
 1. The website fails to maintain consistency and standards between the nationwide Surfrider website despite being under the same organization. 
 2. The website does not match between system and the real world as some categories lack a well-rounded description (specifically legislations and campaigns).
 3. The website's flexibility and efficiency of use could be improved by making a more reactive search bar as it does not auto-recommend keywords or highlight the searched term on the website. 
-4. The help and documentation aspect of this website is not severely bad, but could be improved by adding persuasive texts and images on the donate page.   
+4. The help and documentation aspect, the donation page, of this website is not severely bad, but could be improved by adding persuasive texts and images to encourage the behavior of donating.
 
 With these concerns, I will conduct a Usability Test (UT) to understand to what extent the app enhances or hinders the user's ability to complete tasks. The test will focus on the effectiveness, efficiency, and satisfaction of the California Surfrider website. 
 
@@ -35,3 +35,6 @@ The pilot usability testing took place in my apartment near UCLA located in West
 ## Reflection
 
 Overall, I think the pilot testing was successful and went smoothly. The participant understood the questions asked, and I felt pretty confident going through the test. However, there were a few hiccups throughout the process where the user felt lost, and I felt an urge to help them and give tips. However, I was unsure whether that would skew and bias the answers since this test is meant to see how an inexperienced user interacted with the site. So, I held back my comments and let the user explore on his own. The other issue that came up during the test was invalid links that confused the user even more, but I was able to redirect them to the task and reassure them that it was okay if they could not complete every task. The user was also very good at voicing his thought processes whilst carrying out the tasks, which was very helpful for me to gain insight. From this test, I learned that my expectations for what the user would/would not know is not the most accurate, as the user even found alternative ways to complete the tasks. So, in future UT’s, I would definitely try my best to come up with tasks without assuming how experienced the user will be. Overall, I would say this was a smooth pilot test because it definitely helped that me and the user already had mutual trust, thus moving forward, I will maintain professionalism whilst helping the user feel comfortable in the environment. 
+
+
+
