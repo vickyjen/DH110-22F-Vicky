@@ -15,5 +15,16 @@ The current solutions to promote engagement with oceanic conservation related co
 #### What is(are) the limitation(s) that possibly would be improved?
 The current limitations to boosting engagement with oceanic conservation and protection events is due to the lack of information on both the event itself and the cause behind it. With a lack of updated and correct information, it may be hard for interested users to find a way into this community. By improving the website design to be more user friendly and accessible, each local area of California can post area-specific information about events and their oceans, allowing for the people in that area to take part in conserving the oceans they surf in. 
 
+## Step 02: Target users
 
+#### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+- Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
+- Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
+- Expertise: No expertise required to participate/signup for community service events
+- Mainstream vs. extreme: Mainstream surfers of any level 
+
+#### In which context (where, why, under which conditions) would the users do that activity? 
+
+
+#### What would the users usually do in order to complete that activity? 
 
