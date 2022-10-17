@@ -18,13 +18,17 @@ The current limitations to boosting engagement with oceanic conservation and pro
 ## Step 02: Target users
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-- Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
-- Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
-- Expertise: No expertise required to participate/signup for community service events
-- Mainstream vs. extreme: Mainstream surfers of any level 
+Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
+Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
+Expertise: No expertise required to participate/signup for community service events
+Mainstream vs. extreme: Mainstream surfers of any level 
 
 #### In which context (where, why, under which conditions) would the users do that activity? 
-
+Where: The users can register and find information about oceanic protection events on the website itself which can be accessed anywhere with a phone, tablet, or computer.
+Why: The conservation levels of the ocean directly impacts surfers as they perform this sport in the ocean. Thus, they would be more inclined to participate in these events which not only boost their self-actualization to bring change to the world, but also help create connections with fellow surfers passionate about this topic, making new friends in a engaged surf community. 
 
 #### What would the users usually do in order to complete that activity? 
+The goal of the users would be to sign up or participate in a real-life event that contributes towards ocean conservation in some form. To do that, they would need to go onto the website and find up to date information about what events are happening around them, and show up to the event itself and participate in it. 
+
+## Step 03: Pick research methods
 
