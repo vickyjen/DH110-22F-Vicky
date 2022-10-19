@@ -8,8 +8,8 @@ The main activity this project supports is to boost engagement within oceanic co
 
 #### What is the basic need/goal involved for that activity?
 Based on Maslow’s hierarchy of needs, this project will target two different goals:
-- Self-actualization: by partaking in acts of community service to benefit the environment, users can realize the potential and power they hold in contributing to something bigger than them. 
-- Belonging and love: taking part in these community service events will foster valuable connections with the user’s local surf community and people who share similar passion for surfing and the ocean.  
+Self-actualization: by partaking in acts of community service to benefit the environment, users can realize the potential and power they hold in contributing to something bigger than them. 
+Belonging and love: taking part in these community service events will foster valuable connections with the user’s local surf community and people who share similar passion for surfing and the ocean.  
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
 The current solutions to promote engagement with oceanic conservation related community service events mainly rely on social media, donations, or if the user has personal attachments or connections with the particular event. These often are promoted by schools and universities amongst the student population as well by environmental clubs. 
@@ -20,9 +20,9 @@ The current limitations to boosting engagement with oceanic conservation and pro
 ## Step 02: Target users
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-- Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
-- Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
-- Expertise: No expertise required to participate/signup for community service events
+Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
+Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
+Expertise: No expertise required to participate/signup for community service events
 Mainstream vs. extreme: Mainstream surfers of any level 
 
 #### In which context (where, why, under which conditions) would the users do that activity? 
@@ -33,5 +33,14 @@ Why: The conservation levels of the ocean directly impacts surfers as they perfo
 The goal of the users would be to sign up or participate in a real-life event that contributes towards ocean conservation in some form. To do that, they would need to go onto the website and find up to date information about what events are happening around them, and show up to the event itself and participate in it. 
 
 ## Step 03: Pick research methods
-SCRIPT:https://docs.google.com/document/d/1fQmMwTucsdJsZhX30djDkf8gHVuzmOOETg7ECYmHGzM/edit
+To get the comprehensive answers on not only what the user thinks about this topic, but also how they feel about it on a deeper level, I chose to conduct a combination of interview and participatory observation. First, I will ask the user some questions regarding their background, then I will ask them their experiences and challenges when faced with community service events for ocean conservation, and finally, I will observe how the user navigates through the tasks. This interview will be conducted in person with screen recording, audio recording, as well as video recording to show the user’s emotions. 
 
+## Step 04: Interview/observation guide
+Please find the link to the interview script [here](https://docs.google.com/document/d/1fQmMwTucsdJsZhX30djDkf8gHVuzmOOETg7ECYmHGzM/edit).
+
+## Step 05: Conducting the Interview
+Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1qI1lVyXrBjeFAbNJDUYg50fkiYZsGucOuXJHZL_cjIY/edit).
+
+Please find the video, audio, and screenshare recording of the whole interview here. 
+
+### Insights from the interview 
