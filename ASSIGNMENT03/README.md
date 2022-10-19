@@ -1,4 +1,4 @@
-# ASSIGNMENT #02: Contexual Inquiry
+# ASSIGNMENT #02: Contextual Inquiry
 ##### _By Vicky Jen| DH110: User Experience and Design_
 
 ## Step 01: Research goal & requirements
@@ -41,7 +41,7 @@ Please find the link to the interview script [here](https://docs.google.com/docu
 ## Step 05: Conducting the Interview
 Please find the transcription of the whole interview and participatory observation [here](https://docs.google.com/document/d/1qI1lVyXrBjeFAbNJDUYg50fkiYZsGucOuXJHZL_cjIY/edit).
 
-Please find the video, audio, and screenshare recording of the whole interview here. 
+Please find the video, audio, and screenshare recording of the whole interview [here](https://drive.google.com/file/d/1qKiwYFi6u48_iRNuxT681DPM3cyqQEBb/view?usp=sharing). 
 
 ### Insights from the Interview
 
@@ -49,17 +49,19 @@ Please find the video, audio, and screenshare recording of the whole interview h
 
 From this, we can see how the cleanliness and health of the ocean directly affects the surf population, thus the reason for targeting this audience in the project. This also increases the chances of their likelihood to advocate and volunteer for ocean conservation related community service events.
 
-
 > “For me, community is really important. But at the same time, volunteering it with a new organization can also be scary, like seeing, you know, they have photos on their website like this one we're looking at right now of like a bunch of people that look really happy after a beach cleanup and that like, you know, makes me feel a little bit less scared and like excited to join maybe a new community. And like, you know if these people can do it, so can I.”
 
 Community service is not only for the environment, but also for the community carrying out these actions themselves. Fostering friendships and connections within these groups are key to get volunteers to come back consistently. For the user, seeing evidence, pictures, and videos of successful events is important to encourage them to take action as well. 
-
 
 > “I've definitely encountered pollution, especially when I've gone surfing in Santa Barbara every time you go surfing you get tar stuck all over you because you know the oil rigs out in the water and Yeah, you get tar stuck all over your feet in your hands. And then like when you're in the water, you can see all the oil film. It’s pretty gross, yeah.”
 
 From a surfer’s first-hand experience, we can see here that ocean pollution is very real and how it directly affects them. Pollution does not just appear as numbers and statistics on paper, but also in their literal forms that can be health hazards to not only the environment, sea-life, but also people. 
 
-
 > “I think the intimidation factor is very real for a lot of people. And, like, it may sound stupid, you know, like, oh, no, like, I'm afraid to go like, you know, volunteer with people that work for a nonprofit and but I think it is, yeah, very real. And just like, getting involved with a new community, a new group of people can always be scary.”
 
 Here, we learn about a new factor that plays a role in the lack of engagement with community service events. As these are social events, it requires interaction with other volunteers which can be intimidating and scary for some. This shows that it is important to reassure the user about the comfortability and friendly environment that is fostered at a community service event to encourage them to take the first step. 
+
+## Reflection
+After completing this interview, I was able to gain insight on some problems that I had previously not anticipated, but also confirm my hypotheses of why there is a lack of engagement in the surf community for ocean conservation related events. Previously, I assumed that there were three main factors, community, the cause, and the organization holding the event. However, I learned that intimidation is a factor too, as community service are social events, so the user would have to interact with other members. It can be scary for the user to go out to a completely new community, thus encouragement, reassurance, and evidence of successful events are crucial to increasing engagement. I was also able to confirm the relationship between ocean pollution and the surf community as they are indeed directly affected. Ultimately, I learned that there is definitely interest in community involvement, but users often need an extra push and reason to take the first step. 
+
+As for the interview and participatory observation itself, it was successful and went smoothly. I conducted the study in a classroom setting with no distractions or disturbances. The interviewee was able to answer the questions well, and complete the tasks as expected. She was not fazed or confused by any part of the interview and is a great example of a target audience in this project. She was also very verbal about the information she was seeing to show the emotions that are associated with environmental issues. However, in future interviews, I would turn on the transcript option on Zoom to ensure a more accurate transcription. Besides that, I would say this was a successful interview overall. 
