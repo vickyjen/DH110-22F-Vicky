@@ -8,8 +8,8 @@ The main activity this project supports is to boost engagement within oceanic co
 
 #### What is the basic need/goal involved for that activity?
 Based on Maslow’s hierarchy of needs, this project will target two different goals:
-Self-actualization: by partaking in acts of community service to benefit the environment, users can realize the potential and power they hold in contributing to something bigger than them. 
-Belonging and love: taking part in these community service events will foster valuable connections with the user’s local surf community and people who share similar passion for surfing and the ocean.  
+- Self-actualization: by partaking in acts of community service to benefit the environment, users can realize the potential and power they hold in contributing to something bigger than them. 
+- Belonging and love: taking part in these community service events will foster valuable connections with the user’s local surf community and people who share similar passion for surfing and the ocean.  
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
 The current solutions to promote engagement with oceanic conservation related community service events mainly rely on social media, donations, or if the user has personal attachments or connections with the particular event. These often are promoted by schools and universities amongst the student population as well by environmental clubs. 
