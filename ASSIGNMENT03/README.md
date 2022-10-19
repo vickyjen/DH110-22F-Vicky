@@ -11,10 +11,10 @@ Based on Maslow’s hierarchy of needs, this project will target two different g
 Self-actualization: by partaking in acts of community service to benefit the environment, users can realize the potential and power they hold in contributing to something bigger than them. 
 Belonging and love: taking part in these community service events will foster valuable connections with the user’s local surf community and people who share similar passion for surfing and the ocean.  
 
-#### What is(are) the traditional/current solution(s) to satisfy the needs?
+#### What is (are) the traditional/current solution(s) to satisfy the needs?
 The current solutions to promote engagement with oceanic conservation related community service events mainly rely on social media, donations, or if the user has personal attachments or connections with the particular event. These often are promoted by schools and universities amongst the student population as well by environmental clubs. 
 
-#### What is(are) the limitation(s) that possibly would be improved?
+#### What is (are) the limitation(s) that possibly would be improved?
 The current limitations to boosting engagement with oceanic conservation and protection events is due to the lack of information on both the event itself and the cause behind it. With a lack of updated and correct information, it may be hard for interested users to find a way into this community. By improving the website design to be more user friendly and accessible, each local area of California can post area-specific information about events and their oceans, allowing for the people in that area to take part in conserving the oceans they surf in. 
 
 ## Step 02: Target users
@@ -47,9 +47,16 @@ Please find the video, audio, and screenshare recording of the whole interview h
 
 > “Personally, I rely a lot on the ocean as a source of happiness. And I think, so do a lot of people. I think I'm able to empathize with this, because the statistics are very real. And really, you know, they affect everybody, but for like surfers who rely on the ocean for happiness, it really deeply affects us. And if we don't have don't have the ocean or don't have access to clean oceans, that's a big problem, and something that we should really be caring about.”
 
+From this, we can see how the cleanliness and health of the ocean directly affects the surf population, thus the reason for targeting this audience in the project. This also increases the chances of their likelihood to advocate and volunteer for ocean conservation related community service events.
+
 > “For me, community is really important. But at the same time, volunteering it with a new organization can also be scary, like seeing, you know, they have photos on their website like this one we're looking at right now of like a bunch of people that look really happy after a beach cleanup and that like, you know, makes me feel a little bit less scared and like excited to join maybe a new community. And like, you know if these people can do it, so can I.”
+
+Community service is not only for the environment, but also for the community carrying out these actions themselves. Fostering friendships and connections within these groups are key to get volunteers to come back consistently. For the user, seeing evidence, pictures, and videos of successful events is important to encourage them to take action as well. 
 
 > “I've definitely encountered pollution, especially when I've gone surfing in Santa Barbara every time you go surfing you get tar stuck all over you because you know the oil rigs out in the water and Yeah, you get tar stuck all over your feet in your hands. And then like when you're in the water, you can see all the oil film. It’s pretty gross, yeah.”
 
+From a surfer’s first-hand experience, we can see here that ocean pollution is very real and how it directly affects them. Pollution does not just appear as numbers and statistics on paper, but also in their literal forms that can be health hazards to not only the environment, sea-life, but also people. 
+
 > “I think the intimidation factor is very real for a lot of people. And, like, it may sound stupid, you know, like, oh, no, like, I'm afraid to go like, you know, volunteer with people that work for a nonprofit and but I think it is, yeah, very real. And just like, getting involved with a new community, a new group of people can always be scary.”
 
+Here, we learn about a new factor that plays a role in the lack of engagement with community service events. As these are social events, it requires interaction with other volunteers which can be intimidating and scary for some. This shows that it is important to reassure the user about the comfortability and friendly environment that is fostered at a community service event to encourage them to take the first step. 
