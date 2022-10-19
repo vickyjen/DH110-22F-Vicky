@@ -43,4 +43,13 @@ Please find the transcription of the whole interview and participatory observati
 
 Please find the video, audio, and screenshare recording of the whole interview here. 
 
-### Insights from the interview 
+### Insights from the Interview
+
+> “Personally, I rely a lot on the ocean as a source of happiness. And I think, so do a lot of people. I think I'm able to empathize with this, because the statistics are very real. And really, you know, they affect everybody, but for like surfers who rely on the ocean for happiness, it really deeply affects us. And if we don't have don't have the ocean or don't have access to clean oceans, that's a big problem, and something that we should really be caring about.”
+
+> “For me, community is really important. But at the same time, volunteering it with a new organization can also be scary, like seeing, you know, they have photos on their website like this one we're looking at right now of like a bunch of people that look really happy after a beach cleanup and that like, you know, makes me feel a little bit less scared and like excited to join maybe a new community. And like, you know if these people can do it, so can I.”
+
+> “I've definitely encountered pollution, especially when I've gone surfing in Santa Barbara every time you go surfing you get tar stuck all over you because you know the oil rigs out in the water and Yeah, you get tar stuck all over your feet in your hands. And then like when you're in the water, you can see all the oil film. It’s pretty gross, yeah.”
+
+> “I think the intimidation factor is very real for a lot of people. And, like, it may sound stupid, you know, like, oh, no, like, I'm afraid to go like, you know, volunteer with people that work for a nonprofit and but I think it is, yeah, very real. And just like, getting involved with a new community, a new group of people can always be scary.”
+
