@@ -49,13 +49,16 @@ Please find the video, audio, and screenshare recording of the whole interview h
 
 From this, we can see how the cleanliness and health of the ocean directly affects the surf population, thus the reason for targeting this audience in the project. This also increases the chances of their likelihood to advocate and volunteer for ocean conservation related community service events.
 
+
 > “For me, community is really important. But at the same time, volunteering it with a new organization can also be scary, like seeing, you know, they have photos on their website like this one we're looking at right now of like a bunch of people that look really happy after a beach cleanup and that like, you know, makes me feel a little bit less scared and like excited to join maybe a new community. And like, you know if these people can do it, so can I.”
 
 Community service is not only for the environment, but also for the community carrying out these actions themselves. Fostering friendships and connections within these groups are key to get volunteers to come back consistently. For the user, seeing evidence, pictures, and videos of successful events is important to encourage them to take action as well. 
 
+
 > “I've definitely encountered pollution, especially when I've gone surfing in Santa Barbara every time you go surfing you get tar stuck all over you because you know the oil rigs out in the water and Yeah, you get tar stuck all over your feet in your hands. And then like when you're in the water, you can see all the oil film. It’s pretty gross, yeah.”
 
 From a surfer’s first-hand experience, we can see here that ocean pollution is very real and how it directly affects them. Pollution does not just appear as numbers and statistics on paper, but also in their literal forms that can be health hazards to not only the environment, sea-life, but also people. 
+
 
 > “I think the intimidation factor is very real for a lot of people. And, like, it may sound stupid, you know, like, oh, no, like, I'm afraid to go like, you know, volunteer with people that work for a nonprofit and but I think it is, yeah, very real. And just like, getting involved with a new community, a new group of people can always be scary.”
 
