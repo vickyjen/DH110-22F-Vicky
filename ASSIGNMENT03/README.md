@@ -20,9 +20,9 @@ The current limitations to boosting engagement with oceanic conservation and pro
 ## Step 02: Target users
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
-Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
-Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
-Expertise: No expertise required to participate/signup for community service events
+- Demographic: People, potentially surfers, or anyone who is interested in taking part in community service events related to ocean conservation. 
+- Preference: Local surfers who go to the ocean often, thus are personally affected by the cleanliness and health of the ocean, and would have the desire to contribute to related causes. 
+- Expertise: No expertise required to participate/signup for community service events
 Mainstream vs. extreme: Mainstream surfers of any level 
 
 #### In which context (where, why, under which conditions) would the users do that activity? 
