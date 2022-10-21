@@ -1,4 +1,4 @@
-# ASSIGNMENT #02: Contextual Inquiry
+# ASSIGNMENT #03: Contextual Inquiry
 ##### _By Vicky Jen| DH110: User Experience and Design_
 
 ## Step 01: Research goal & requirements
