@@ -27,3 +27,15 @@ The purpose of UX storytelling is to build empathy by creating realistic stories
 #### Kanao’s Journey Map
 ![KANOA JOURNEY MAP](./Kanoa_Journey_Map.png) 
 
+### Scenario #2: Kirra’s Scenario
+
+#### Why Kirra is using this product
+Kirra has just moved to San Diego for her new job and is looking to expand her social circle especially within the surf community. She wants to meet new friends and explore new surf spots as well as activities with them. She is interested in volunteering for oceanic protection organizations but is unsure which events to attend since she has a busy schedule at work as well. To achieve these goals, she thinks that finding local beach cleanups could be a good way to meet fellow surfers and also become friends with them.
+
+#### How Kirra is using this product
+Kirra has a Labor day weekend coming up with no plans yet. She wants to surf and make a couple of friends, and while she’s there she wants to scope out some volunteer opportunities. She creates a profile in the YEW! application and searches upcoming events nearby. She chooses her location, interests, timeframe, as well as her favorite surf spots. Because she has chosen Labor day weekend, multiple organizations are hosting events. She looks through the reviews and photos and settles on a beach cleanup at Black’s beach. She registers for the event and receives specifics about the event. She joins the group chat for it where everyone is chatting with each other about specifics for the meetup. This social aspect makes her feel more at peace and comfortable with a new community. 
+
+#### Kirra’s Journey Map
+![Kirra JOURNEY MAP](./Kirra_Journey_Map.png) 
+
+
