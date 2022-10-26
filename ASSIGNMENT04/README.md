@@ -9,4 +9,4 @@ The purpose of UX storytelling is to build empathy by creating realistic stories
 - **Social aspect for the users:** User’s can follow each other, post, share, like, and comment to document the event, leave reviews, and befriend one another after attending the event. 
 
 ## User Personas
-![KANOA PERSONA](./images/Kanoa_Nakama.png)
+![KANOA PERSONA](./Kanoa_Nakama.png)
