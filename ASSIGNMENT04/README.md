@@ -10,8 +10,10 @@ The purpose of UX storytelling is to build empathy by creating realistic stories
 
 ## User Personas
 ![KANOA PERSONA](./Kanoa_Nakama.png)
+![KANOA Empathy Map](./Kanoa_Empathy_Map.png)
 --
 ![KIRRA PERSONA](./Kirra_Williams.png)
+![Kirra Empathy Map](./Kirra_Empathy_Map.png)
 
 ## Scenario
 ### Scenario #1: Kanao’s Scenario
