@@ -12,3 +12,14 @@ The purpose of UX storytelling is to build empathy by creating realistic stories
 ![KANOA PERSONA](./Kanoa_Nakama.png)
 --
 ![KIRRA PERSONA](./Kirra_Williams.png)
+
+## Scenario
+## Scenario #1: Kanao’s Scenario
+
+### Why Kanao is using this product
+Kanao currently already consistently volunteers with his family at Surfrider Huntington Beach. However, he is interested in building more communities outside of this area to increase involvement. He has met many surfers out in the water who are interested in volunteering, however because they are all in different geographical locations, it is often hard to sync everyone’s calendars to attend events consistently. Everyone receives different information and there is no single product to recommend events hosted by different organizations, locations, and time. Surfing is what connects them all, but logistics is not easily manageable by Kanao himself due to his rigorous surf training. Thus, Kanao wants to use a platform where he can easily spread information to a large community in a digital form to build a strong community for the surfers of southern California. This will be his first step towards building a foundation of his own. 
+
+### How Kanao is using this product
+In Kanao’s free time, he creates a profile on the YEW! application and puts in his location, time availability, interests, and favorite surf spots.He browses oceanic protection volunteer events for the upcoming weekend. When he sees one that aligns with his availability, he registers for it and shares it with his friends and family. As the event approaches, he is socially active on the application, taking initiative in the group chat, commenting, and reposting to encourage new surfers to come out to the event. The event is not exclusive to the organization hosting it and reaches a broader audience in the surf community, making it easier and more accessible for Kanao to branch out from his surf community. 
+
+### Kanao’s Journey Map
