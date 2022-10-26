@@ -23,3 +23,4 @@ The purpose of UX storytelling is to build empathy by creating realistic stories
 > In Kanao’s free time, he creates a profile on the YEW! application and puts in his location, time availability, interests, and favorite surf spots.He browses oceanic protection volunteer events for the upcoming weekend. When he sees one that aligns with his availability, he registers for it and shares it with his friends and family. As the event approaches, he is socially active on the application, taking initiative in the group chat, commenting, and reposting to encourage new surfers to come out to the event. The event is not exclusive to the organization hosting it and reaches a broader audience in the surf community, making it easier and more accessible for Kanao to branch out from his surf community. 
 
 #### Kanao’s Journey Map
+![KANOA JOURNEY MAP](./Kanoa_Journey_Map.png)
