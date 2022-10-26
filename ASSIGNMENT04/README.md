@@ -10,3 +10,4 @@ The purpose of UX storytelling is to build empathy by creating realistic stories
 
 ## User Personas
 ![KANOA PERSONA](./Kanoa_Nakama.png)
+![KIRRA PERSONA](./Kirra_Williams.png)
