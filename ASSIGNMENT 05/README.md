@@ -8,11 +8,8 @@ _by Vicky Jen | DH 110: User Experience Design_
 
 **User Persona + Features:** 
 >Based on my heuristic evaluation and user research, I created 2 personas that could represent two different types of users. 
-
-Persona #1: Kanao Nakama is a 25 year old Japanese male professional surfer. He aspires to increase his engagement with volunteer events related to oceanic conservation by branching out to other surf communities. He is looking for a compilation of information on these events so he can organize his busy schedule accordingly. 
-
-Persona #2: Kirra Williams is a 22 year old Australian Graphic Designer at Amazon. She just moved to the country and is looking for a tight knit surf-community. She is also passionate about oceanic protection and is looking for suitable volunteer opportunities in her area. 
-
+_Persona #1:_ Kanao Nakama is a 25 year old Japanese male professional surfer. He aspires to increase his engagement with volunteer events related to oceanic conservation by branching out to other surf communities. He is looking for a compilation of information on these events so he can organize his busy schedule accordingly. 
+_Persona #2:_ Kirra Williams is a 22 year old Australian Graphic Designer at Amazon. She just moved to the country and is looking for a tight knit surf-community. She is also passionate about oceanic protection and is looking for suitable volunteer opportunities in her area. 
 There will be two features implemented in the application targeting Kanao and Kirra’s struggles. The main function of the app will be to recommend volunteer opportunities and events based on their location, interests, and time availability. An additional feature to boost user engagement is a social aspect that allows users to connect with one another through follows, posts, shares, likes, and comments to document the event, and leave user reviews. This feature will keep the users active on the app to stay updated with live information. 
 
 **Purpose:**
