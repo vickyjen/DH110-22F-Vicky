@@ -3,7 +3,7 @@ _by Vicky Jen | DH 110: User Experience Design_
 
 ## Project Description
 
-####User Research:** 
+#### User Research:** 
 My project aims to boost community engagement in the surf community for volunteer events related to oceanic protection, to build a more bonded community with a stronger sense of awareness regarding environmental issues. The target user I am researching in this project is the surf community in the Southern California region as they are a population that is directly affected by some of these issues. Specifically, I am interested in finding out the reasons behind a lack of engagement, as well as how it could be more convenient for them to participate in such volunteer events. 
 
 **User Persona + Features:** 
