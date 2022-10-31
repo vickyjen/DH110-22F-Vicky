@@ -15,9 +15,9 @@ Persona #2: Kirra Williams is a 22 year old Australian Graphic Designer at Amazo
 
 There will be two features implemented in the application targeting Kanao and Kirra’s struggles. 
 
-**Feature 1:** The main function of the app will be to recommend volunteer opportunities and events based on their location, interests, and time availability. 
+- **Feature 1:** The main function of the app will be to recommend volunteer opportunities and events based on their location, interests, and time availability. 
 
-**Feature 2:** An additional feature to boost user engagement is a social aspect that allows users to connect with one another through follows, posts, shares, likes, and comments to document the event, and leave user reviews. This feature will keep the users active on the app to stay updated with live information. 
+- **Feature 2:** An additional feature to boost user engagement is a social aspect that allows users to connect with one another through follows, posts, shares, likes, and comments to document the event, and leave user reviews. This feature will keep the users active on the app to stay updated with live information. 
 
 ### Purpose:
 The purpose of a low fidelity prototype is to translate high-level design concepts into tangible and testable screens. It allows for early on testing with users to check and test the functionality of the wireflow. It also allows for the designer and researcher to visualize the product before implementing additional design elements. 
