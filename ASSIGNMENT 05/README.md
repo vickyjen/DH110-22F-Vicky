@@ -21,3 +21,7 @@ The purpose of a low fidelity prototype is to translate high-level design concep
 #### Wireframes:
 ![Feature 1](./images/Feature_1.png)
 ![Feature 2](./images/Feature_2.png)
+
+#### Wireframes:
+![Wireframe 1](./images/Wireframe_1.png)
+![Wireframe 2](./images/Wireframe_2.png)
