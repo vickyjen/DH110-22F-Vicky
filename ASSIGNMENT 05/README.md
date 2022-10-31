@@ -19,4 +19,4 @@ There will be two features implemented in the application targeting Kanao and Ki
 The purpose of a low fidelity prototype is to translate high-level design concepts into tangible and testable screens. It allows for early on testing with users to check and test the functionality of the wireflow. It also allows for the designer and researcher to visualize the product before implementing additional design elements. 
 
 #### Wireframes:
-![Feature 1](.images/Feature 1.png)
+![Feature 1](.images/Feature1.png)
