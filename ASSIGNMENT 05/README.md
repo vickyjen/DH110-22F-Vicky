@@ -42,9 +42,9 @@ Please find the full recording of the testing [here](https://drive.google.com/fi
 **Documentation of how the user interacted with the wireframes:**
 ![User_1](./images/User_1.png)
 
-Notes: The user was confused on screen 3 as there was no button to advance to the next screen after choosing their interest. The user also felt that using a different word for the registering page such as confirm could help differentiate between the two similar pages. Additionally, he suggested that the confirmation page be its own screen so the user can anticipate what will happen after they exit out of the confirmation screen. 
+**Notes:** The user was confused on screen 3 as there was no button to advance to the next screen after choosing their interest. The user also felt that using a different word for the registering page such as confirm could help differentiate between the two similar pages. Additionally, he suggested that the confirmation page be its own screen so the user can anticipate what will happen after they exit out of the confirmation screen. 
 
 ![User_2](./images/User_2.png)
 
-Notes: The user thought there could be an additional feature for users to create new chats with new friends. He also thought that it was odd there was both an ‘x’ as well as ‘end call’ button on the call screen as they both supposedly lead to the same screen. Overall everything was pretty self explanatory, however the home icon and safari icon was a little confusing as social media apps typically use the home icon for their friends feed. Whereas “YEW!” uses the safari for their friends feed. So, he suggested I change the icon into a globe or enlarge the icon in the tab. 
+**Notes:** The user thought there could be an additional feature for users to create new chats with new friends. He also thought that it was odd there was both an ‘x’ as well as ‘end call’ button on the call screen as they both supposedly lead to the same screen. Overall everything was pretty self explanatory, however the home icon and safari icon was a little confusing as social media apps typically use the home icon for their friends feed. Whereas “YEW!” uses the safari for their friends feed. So, he suggested I change the icon into a globe or enlarge the icon in the tab. 
 
