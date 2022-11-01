@@ -69,7 +69,8 @@ Please find the full recording of the testing [here](https://drive.google.com/fi
 
 ### Revised Wireframe
 
+**Feature #1**
 ![Revised_1](./images/Revised_1.png)
 
-
+**#Feature #2**
 ![Revised_2](./images/Revised_2.png)
