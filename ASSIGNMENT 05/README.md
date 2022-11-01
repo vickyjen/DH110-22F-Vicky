@@ -33,3 +33,12 @@ The purpose of a low fidelity prototype is to translate high-level design concep
 ![Wireframe 1](./images/Wireframe_1.png)
 #### Feature #2
 ![Wireframe 2](./images/Wireframe_2.png)
+
+### Testing:
+After completing the first draft of the low fidelity prototype, I asked a user to help test the two features of the application in terms of navigation, flow, and how natural it felt. The video was recorded on zoom whilst screen sharing on an ipad.
+
+Please find the full recording of the testing [here](https://drive.google.com/file/d/1thi95iwfNH1Rjo90ijREl1spQg0qQb9l/view?usp=sharing). 
+
+Pictures of how the user interacted with the wireframes:
+![User_1](./images/User_1.png)
+![User_2](./images/User_2.png)
