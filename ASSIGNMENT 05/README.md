@@ -39,6 +39,6 @@ After completing the first draft of the low fidelity prototype, I asked a user t
 
 Please find the full recording of the testing [here](https://drive.google.com/file/d/1thi95iwfNH1Rjo90ijREl1spQg0qQb9l/view?usp=sharing). 
 
-Pictures of how the user interacted with the wireframes:
+**Documentation of how the user interacted with the wireframes:**
 ![User_1](./images/User_1.png)
 ![User_2](./images/User_2.png)
