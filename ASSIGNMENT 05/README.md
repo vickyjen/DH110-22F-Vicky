@@ -40,6 +40,7 @@ After completing the first draft of the low fidelity prototype, I asked a user t
 Please find the full recording of the testing [here](https://drive.google.com/file/d/1thi95iwfNH1Rjo90ijREl1spQg0qQb9l/view?usp=sharing). 
 
 **Documentation of how the user interacted with the wireframes:**
+
 ![User_1](./images/User_1.png)
 
 **Notes:** The user was confused on screen 3 as there was no button to advance to the next screen after choosing their interest. The user also felt that using a different word for the registering page such as confirm could help differentiate between the two similar pages. Additionally, he suggested that the confirmation page be its own screen so the user can anticipate what will happen after they exit out of the confirmation screen. 
