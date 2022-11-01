@@ -69,8 +69,12 @@ Please find the full recording of the testing [here](https://drive.google.com/fi
 
 ### Revised Wireframe
 
-**Feature #1**
 ![Revised_1](./images/Revised_1.png)
 
-**Feature #2**
+
 ![Revised_2](./images/Revised_2.png)
+
+- Added ‘next’ buttons on screen 1 and 2 
+- Changed the event confirmation page into a screen
+- Removed unnecessary ‘x’ from the call screen
+- Will reevaluate best icons to use for navigation bar
