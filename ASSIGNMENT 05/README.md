@@ -87,7 +87,7 @@ However, the user pointed out a couple of key elements that disrupted the flow. 
 - User was unsure whether home or safari icon lead to the friends feed screen vs. event reccomendations screen
   - Choose icons that are familiar to the user and standardized in the industry so the user does not need to relearn 
 
-As shown above, after these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
+As shown above, after the feedback received from the testing, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
 
 
