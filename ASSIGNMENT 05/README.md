@@ -65,11 +65,12 @@ Please find the full recording of the testing [here](https://drive.google.com/fi
 Overall, the testing went smoothly and the user was able to successfully complete both tasks. This low fidelity prototype was a quick and easy way for me to check whether the system flowed logically. The majority of the navigation was familiar to the user and he found it straightforward. For task one, the user was able to complete the task as expected, and task two took slightly longer, but he was able to provide insightful feedback by being verbal while navigating. 
 However, the user pointed out a couple of key elements that disrupted the flow. As taken note of above, he mentioned that he felt lost when there was no next button on the screens; multiple buttons with the same use is not necessary on the same screen; and that the navigation bar icons can be re-evaluated in a more standardized and familiar manner. After these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
-**Revised Wireframe**
+**Revised Wireframes**
 
+#### Feature #1
 ![Revised_1](./images/Revised_1.png)
 
-
+#### Feature #2
 ![Revised_2](./images/Revised_2.png)
 
 - Added ‘next’ buttons on screen 1 and 2 
