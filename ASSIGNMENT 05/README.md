@@ -77,8 +77,17 @@ Please find the full recording of the testing [here](https://drive.google.com/fi
 ### Summary
 
 Overall, the testing went smoothly and the user was able to successfully complete both tasks. This low fidelity prototype was a quick and easy way for me to check whether the system flowed logically. The majority of the navigation was familiar to the user and he found it straightforward. For task one, the user was able to complete the task as expected, and task two took slightly longer, but he was able to provide insightful feedback by being verbal while navigating. 
-However, the user pointed out a couple of key elements that disrupted the flow. As taken note of above, he mentioned that he felt lost when there was no next button on the screens; multiple buttons with the same use is not necessary on the same screen; and that the navigation bar icons can be re-evaluated in a more standardized and familiar manner. After these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
+However, the user pointed out a couple of key elements that disrupted the flow. Below are some challenges the user encountered and how I would change the design.
+
+- User felt lost without 'next' button on screen 1 and 2 in feature #1
+> Always present a 'next' button on pages to ensure there are no dead ends in the design
+- User was unsure whether both the 'x' and 'end call' would lead to the same page
+> Remove unecessary repeat buttons to maintain clairty
+- User was unsure whether home or safari icon lead to the friends feed screen vs. event reccomendations screen
+> Choose icons that are familiar to the user and standardized in the industry so the user does not need to relearn 
+
+As shown above, after these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
 
 
