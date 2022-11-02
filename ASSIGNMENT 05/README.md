@@ -60,10 +60,6 @@ Please find the full recording of the testing [here](https://drive.google.com/fi
 
 > **Notes:** The user thought there could be an additional feature for users to create new chats with new friends. He also thought that it was odd there was both an ‘x’ as well as ‘end call’ button on the call screen as they both supposedly lead to the same screen. Overall everything was pretty self explanatory, however the home icon and safari icon was a little confusing as social media apps typically use the home icon for their friends feed. Whereas “YEW!” uses the safari for their friends feed. So, he suggested I change the icon into a globe or enlarge the icon in the tab. The user was able to successfully complete the task.
 
-### Summary
-
-Overall, the testing went smoothly and the user was able to successfully complete both tasks. This low fidelity prototype was a quick and easy way for me to check whether the system flowed logically. The majority of the navigation was familiar to the user and he found it straightforward. For task one, the user was able to complete the task as expected, and task two took slightly longer, but he was able to provide insightful feedback by being verbal while navigating. 
-However, the user pointed out a couple of key elements that disrupted the flow. As taken note of above, he mentioned that he felt lost when there was no next button on the screens; multiple buttons with the same use is not necessary on the same screen; and that the navigation bar icons can be re-evaluated in a more standardized and familiar manner. After these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
 **Revised Wireframes**
 
@@ -77,6 +73,11 @@ However, the user pointed out a couple of key elements that disrupted the flow. 
 - Changed the event confirmation page into a screen
 - Removed unnecessary ‘x’ from the call screen
 - Will reevaluate best icons to use for navigation bar
+
+### Summary
+
+Overall, the testing went smoothly and the user was able to successfully complete both tasks. This low fidelity prototype was a quick and easy way for me to check whether the system flowed logically. The majority of the navigation was familiar to the user and he found it straightforward. For task one, the user was able to complete the task as expected, and task two took slightly longer, but he was able to provide insightful feedback by being verbal while navigating. 
+However, the user pointed out a couple of key elements that disrupted the flow. As taken note of above, he mentioned that he felt lost when there was no next button on the screens; multiple buttons with the same use is not necessary on the same screen; and that the navigation bar icons can be re-evaluated in a more standardized and familiar manner. After these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
 
 
