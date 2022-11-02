@@ -81,7 +81,7 @@ Overall, the testing went smoothly and the user was able to successfully complet
 However, the user pointed out a couple of key elements that disrupted the flow. Below are some challenges the user encountered and how I would change the design.
 
 - User felt lost without 'next' button on screen 1 and 2 in feature #1
-> Always present a 'next' button on pages to ensure there are no dead ends in the design
+  - Always present a 'next' button on pages to ensure there are no dead ends in the design
 - User was unsure whether both the 'x' and 'end call' would lead to the same page
 > Remove unecessary repeat buttons to maintain clairty
 - User was unsure whether home or safari icon lead to the friends feed screen vs. event reccomendations screen
