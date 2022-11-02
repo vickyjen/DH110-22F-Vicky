@@ -83,9 +83,9 @@ However, the user pointed out a couple of key elements that disrupted the flow. 
 - User felt lost without 'next' button on screen 1 and 2 in feature #1
   - Always present a 'next' button on pages to ensure there are no dead ends in the design
 - User was unsure whether both the 'x' and 'end call' would lead to the same page
-> Remove unecessary repeat buttons to maintain clairty
+  - Remove unecessary repeat buttons to maintain clairty
 - User was unsure whether home or safari icon lead to the friends feed screen vs. event reccomendations screen
-> Choose icons that are familiar to the user and standardized in the industry so the user does not need to relearn 
+  - Choose icons that are familiar to the user and standardized in the industry so the user does not need to relearn 
 
 As shown above, after these comments, I was able to revise my lo-fi prototype and make revisions to improve the user experience of the application. 
 
