@@ -41,7 +41,16 @@ With the **Sapphire Teal** as the primary color, I created corresponding light a
 ![Color Palettes2](./images/Modes.png)
 
 ## 📝 Impression Testing
-[insert stuff here]
+Impression Testing Screen Recording [here](https://drive.google.com/file/d/1nEhU2o0lVRtuZMAx-8Y_Bneq4ggEs0T9/view?usp=sharing)
+
+Summary of Findings:
+Logo was clear, visible, and recognizable
+Color theme was blue, like button was blue, created a sense of cohesion
+App theme was surfing based on images
+Function of app is events with supporting text and images 
+Images were big and clear which is helpful since it is a phone application
+Font was legible, easy to read
+General impression was simple, clean, professional, minimalistic, not overwhelming
 
 ## ✅ Accessibility + Contrast Check
 To ensure the color palettes pass the WCAG guidelines, I used a contrast checker to make sure everything is legible. 
@@ -60,7 +69,7 @@ This is the final scrolling screen design in the default light mode with Circula
 ![Typography](./images/Typography1.png)
 
 ### Color Palette
-![Color Palettes](./images/Light_Mode.png) 
+![Color Palettes](./images/Light_Mode.png)
 ![Color Palettes1](./images/Dark_Mode.png)
 
 ### Shape Variation
@@ -68,8 +77,8 @@ This is the final scrolling screen design in the default light mode with Circula
 ![Shape Variation](./images/Shape_Variation2.png)
 
 ### Summary of Design Decisions 
-**Typography:** I chose to use Circular STD to keep the interface modern, clean, and sleek as this platform aims to reduce cluttering information that may incentivize the user to register for an event. It is key that information is readable and legible. 
+Typography: I chose to use Circular STD to keep the interface modern, clean, and sleek as this platform aims to reduce cluttering information that may incentivize the user to register for an event. It is key that information is readable and legible. 
 
-**Color Palette:** Teal is a staple color of the ocean, and to the surf-community this color intends to evoke familiarity and a feeling of freshness. It is not overwhelming but is vibrant enough to create fun and engaging designs. 
+Color Palette: Teal is a staple color of the ocean, and to the surf-community this color intends to evoke familiarity and a feeling of freshness. It is not overwhelming but is vibrant enough to create fun and engaging designs. 
 
-**Layout:** I wanted to give the user enough space to breathe on the application, to feel comfortable looking and reading when using the platform. Thus, the gutter is slightly larger and does not fill up the entire screen. The layout is also utilized to create appropriately sized images to capture the user’s attention. 
+Layout: I wanted to give the user enough space to breathe on the application, to feel comfortable looking and reading when using the platform. Thus, the gutter is slightly larger and does not fill up the entire screen. The layout is also utilized to create appropriately sized images to capture the user’s attention. 
