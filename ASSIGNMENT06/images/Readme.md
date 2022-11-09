@@ -15,9 +15,12 @@ This high fidelity prototype is improved and built upon from the low fidelity pr
 
 [Figma Prototype](https://www.figma.com/proto/YZFMiLIPOr4Ci9PMrCeFs5/DH-110-Prototype---Assignment-06?page-id=0%3A1&node-id=12%3A677&viewport=-453%2C-130%2C0.17&scaling=scale-down&starting-point-node-id=12%3A677&show-proto-sidebar=1) (Light & dark mode with scrolling and hover states)
 
-## Screen Design 
+## 🎨 Screen Interface Designs
 
 ### Overall Layout
+![Layout](./images/Layout.png)
+
+
 
 
 
