@@ -25,7 +25,7 @@ For my layout design, I used **8 rows by 5 columns** with a **margin of 32px** a
 I chose to experiment with **sans-serif** fonts to give the design a more modern feel as this app aims to break the stereotypes of community service and modernize the system. Below are Circular STD, Poppins, and Lato. These three fonts are all clean and easily readable/legible. However, I decided to go with **Circular STD** as it was the most stylistically neutral since the app is meant to be a platform to serve the users and not attract attention to bold stylistic choices. 
 
 ![Typography](./images/Typography.png)
-![Typography Screens](./images/Typography_Screens.png)
+![Typography Screens](./images/Typography_Screen.png)
 
 ### Shape Variations
 To make the design feel more friendly, I chose to use **rounded edges** for all the images, buttons and rectangular shapes in the app. I experimented with a corner radius of 3px, 10px, and 15px. I chose to use 15px as it felt the most visually appealing to me. Additionally, I played around with the location of the like button for users to save an event to their favorites. I chose the middle design because it felt the most natural and convenient to press with a thumb when using the phone. 
