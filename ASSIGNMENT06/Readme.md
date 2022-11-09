@@ -47,8 +47,19 @@ With the **Sapphire Teal** as the primary color, I created corresponding light a
 To ensure the color palettes pass the WCAG guidelines, I used a contrast checker to make sure everything is legible. 
 ![Color Contrast](./images/Color_Contrast.png)
 
-## Final Screen Design + Design System
-### Final Screens 
+## 📱 Final Screen Design + Design System
+### Final Screen 
 This is the final scrolling screen design in the default light mode with Circular STD, and 15px rounded radius rectangles, and the like button on the top right of the image. 
 
 ![Final Screen](./images/Final_Screen.png)
+
+### Typography
+![Typography](./images/Typography1.png)
+
+### Color Palette
+![Color Palettes](./images/Light_Mode.png) 
+![Color Palettes1](./images/Dark_Mode.png)
+
+### Shape Variation
+![Shape Variation](./images/Shape_Variation1.png)
+![Shape Variation](./images/Shape_Variation2.png)
