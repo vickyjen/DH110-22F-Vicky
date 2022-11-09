@@ -33,6 +33,9 @@ To make the design feel more friendly, I chose to use **rounded edges** for all 
 ![Shape Variation](./images/Shape_Variation.png)
 ![Shape Screen](./images/Shape_Screen.png)
 
-###
+### Color Palettes
+With the Sapphire Teal as the primary color, I created corresponding light and dark mode color palettes. This is to match the ocean theme of the project, adding to the overall intentions of the application. 
 
-
+![Color Palettes](./images/Light_Mode.png)
+![Color Palettes1](./images/Dark_Mode.png)
+![Color Palettes2](./images/Modes.png)
