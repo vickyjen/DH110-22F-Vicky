@@ -39,3 +39,10 @@ With the **Sapphire Teal** as the primary color, I created corresponding light a
 ![Color Palettes](./images/Light_Mode.png) 
 ![Color Palettes1](./images/Dark_Mode.png)
 ![Color Palettes2](./images/Modes.png)
+
+## 📝 Impression Testing
+[insert stuff here]
+
+## ✅ Accessibility + Contrast Check
+To ensure the color palettes pass the WCAG guidelines, I used a contrast checker to make sure everything is legible. 
+![Color Contrast](./images/Color_Contrast.png)
