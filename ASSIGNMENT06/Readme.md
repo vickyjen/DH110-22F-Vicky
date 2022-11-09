@@ -18,9 +18,13 @@ This high fidelity prototype is improved and built upon from the low fidelity pr
 ## 🎨 Screen Interface Designs
 
 ### Overall Layout
+For my layout design, I used 8 rows by 5 columns with a margin of 32px and gutter of 16px. This was a fitting layout that could display images in a comfortable size. Images are a crucial part of this application as that is a part of what will incentivize users to sign up for the events. The margins are set to 32px to give the design a more spacious feel to prevent the users from feeling overwhelmed.
 ![Layout](./images/Layout.png)
 
+### Typographic Variations 
+I chose to experiment with Sans-Serif fonts to give the design a more modern feel as this app aims to break the stereotypes of community service and modernize the system. Below are Circular STD, Poppins, and Lato. These three fonts are all clean and easily readable/legible. However, I decided to go with Circular STD as it was the most stylistically neutral since the app is meant to be a platform to serve the users and not attract attention to bold stylistic choices. 
 
+![Typography](./images/Typography.png)
 
 
 
