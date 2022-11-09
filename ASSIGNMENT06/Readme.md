@@ -43,14 +43,14 @@ With the **Sapphire Teal** as the primary color, I created corresponding light a
 ## 📝 Impression Testing
 Impression Testing Screen Recording [here](https://drive.google.com/file/d/1nEhU2o0lVRtuZMAx-8Y_Bneq4ggEs0T9/view?usp=sharing)
 
-Summary of Findings:
-Logo was clear, visible, and recognizable
-Color theme was blue, like button was blue, created a sense of cohesion
-App theme was surfing based on images
-Function of app is events with supporting text and images 
-Images were big and clear which is helpful since it is a phone application
-Font was legible, easy to read
-General impression was simple, clean, professional, minimalistic, not overwhelming
+**Summary of Findings:**
+- Logo was clear, visible, and recognizable
+- Color theme was blue, like button was blue, created a sense of cohesion
+- App theme was surfing based on images
+- Function of app is events with supporting text and images 
+- Images were big and clear which is helpful since it is a phone application
+- Font was legible, easy to read
+- General impression was simple, clean, professional, minimalistic, not overwhelming
 
 ## ✅ Accessibility + Contrast Check
 To ensure the color palettes pass the WCAG guidelines, I used a contrast checker to make sure everything is legible. 
