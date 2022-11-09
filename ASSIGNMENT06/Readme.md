@@ -31,7 +31,7 @@ I chose to experiment with **sans-serif** fonts to give the design a more modern
 To make the design feel more friendly, I chose to use **rounded edges** for all the images, buttons and rectangular shapes in the app. I experimented with a corner radius of 3px, 10px, and 15px. I chose to use 15px as it felt the most visually appealing to me. Additionally, I played around with the location of the like button for users to save an event to their favorites. I chose the middle design because it felt the most natural and convenient to press with a thumb when using the phone. 
 
 ![Shape Variation](./images/Shape_Variation.png)
-![Shape Screen](./images/Shape_Screens.png)
+![Shape Screen](./images/Shape_Screen.png)
 
 ###
 
