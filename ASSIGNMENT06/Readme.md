@@ -1,7 +1,7 @@
 # ASSIGNMENT #06: Interface Design
 _by Vicky Jen | DH 110: User Experience Design_
 
-## 📋Project Description
+## 📋 Project Description
 
 This project aims to boost engagement within the surf community in southern california with ocean conservation and protection volunteer events. The project will produce an application that serves as a platform for easier access to information about related events and also connect surfers with one another through similar interests. 
 
