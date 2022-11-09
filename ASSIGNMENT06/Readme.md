@@ -66,3 +66,10 @@ This is the final scrolling screen design in the default light mode with Circula
 ### Shape Variation
 ![Shape Variation](./images/Shape_Variation1.png)
 ![Shape Variation](./images/Shape_Variation2.png)
+
+### Summary of Design Decisions 
+**Typography:** I chose to use Circular STD to keep the interface modern, clean, and sleek as this platform aims to reduce cluttering information that may incentivize the user to register for an event. It is key that information is readable and legible. 
+
+**Color Palette:** Teal is a staple color of the ocean, and to the surf-community this color intends to evoke familiarity and a feeling of freshness. It is not overwhelming but is vibrant enough to create fun and engaging designs. 
+
+**Layout:** I wanted to give the user enough space to breathe on the application, to feel comfortable looking and reading when using the platform. Thus, the gutter is slightly larger and does not fill up the entire screen. The layout is also utilized to create appropriately sized images to capture the user’s attention. 
