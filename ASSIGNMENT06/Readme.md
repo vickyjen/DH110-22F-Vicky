@@ -53,6 +53,9 @@ This is the final scrolling screen design in the default light mode with Circula
 
 ![Final Screen](./images/Final_Screen.png)
 
+### Layout
+![Layout](./images/Layout1.png)
+
 ### Typography
 ![Typography](./images/Typography1.png)
 
