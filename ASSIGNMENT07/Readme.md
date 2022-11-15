@@ -18,6 +18,7 @@ View favorite and upcoming events
 
 ## Interactive Prototype 
 ![Wireflow](./images/Wireflow.png)
+Screenshot of prototype wireflow with interface design implemented.
 
 - [Figma Wireflow](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=79%3A4039&t=1z8BuzZiB4MpyLgh-1)
 - [Figma Prototype](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=1%3A3336&t=1z8BuzZiB4MpyLgh-1)
