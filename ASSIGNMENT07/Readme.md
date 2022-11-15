@@ -17,10 +17,8 @@ Create posts, browse social feed, and chat feature
 View favorite and upcoming events 
 
 ## Interactive Prototype 
-- [Figma Wireflow](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=79%3A4039&t=1z8BuzZiB4MpyLgh-1)
-
 ![Wireflow](./images/Wireflow.png)
 
-
+- [Figma Wireflow](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=79%3A4039&t=1z8BuzZiB4MpyLgh-1)
 - [Figma Prototype](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=1%3A3336&t=1z8BuzZiB4MpyLgh-1)
 
