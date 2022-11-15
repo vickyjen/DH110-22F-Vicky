@@ -11,10 +11,10 @@ The purpose of this high fidelity interactive prototype is to represent the true
 This high fidelity interactive prototype is developed from the interface design. I created it using Figma with a Iphone 13 Pro Max screen size (428x926px). I used the low-fidelity prototype as a base structure and to determine the flow of each task. Then, I applied the design elements accordingly along with real life events and user personas that were previously created. I focused on creating a comprehensive representation of what the YEW! Application would look like if generated into a product. Paying attention to UI details, dead-ends, as well as common sense and logic. 
 
 ## Tasks
-Login and create a new account 
-Browse and register for an event
-Create posts, browse social feed, and chat feature
-View favorite and upcoming events 
+1. Login and create a new account 
+2. Browse and register for an event
+3. Create posts, browse social feed, and chat feature
+4. View favorite and upcoming events 
 
 ## Interactive Prototype 
 ![Wireflow](./images/Wireflow.png)
