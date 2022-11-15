@@ -17,17 +17,10 @@ Create posts, browse social feed, and chat feature
 View favorite and upcoming events 
 
 ## Interactive Prototype 
-[Figma Wireflow](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=79%3A4039&t=1z8BuzZiB4MpyLgh-1)
+- [Figma Wireflow](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=79%3A4039&t=1z8BuzZiB4MpyLgh-1)
+
 ![Wireflow](./images/Wireflow.png)
 
 
-[Figma Prototype](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=1%3A3336&t=1z8BuzZiB4MpyLgh-1)
-
-A brief description of your project, the purpose and process of this interactive prototype phase (3-5 sentences)
-A list of tasks that your interactive prototype supports. (at least two)
-One image (diagram) with the wireflow with graphic design 
-Link to the interactive prototype or embed the interactive prototype.
-Evidence of cognitive walkthrough
-If you have multiple versions of prototypes by reflecting the evaluation with others, provide them with the description of what you learned from other’s feedback and what you have made the changes. 
-
+- [Figma Prototype](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=1%3A3336&t=1z8BuzZiB4MpyLgh-1)
 
