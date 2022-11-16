@@ -1,4 +1,4 @@
-# ASSIGNMENT #06: Interface Design
+# ASSIGNMENT #07: High Fidelity Interactive Prototype
 _by Vicky Jen | DH 110: User Experience Design_
 
 ## 📋 Project Description
