@@ -1,6 +1,7 @@
-# Portfolio
+# ASSIGNMENT #09: Portfolio
 
-## Vicky Jen | DH 110
+## YEW! an application for ocean conservation and protection in California
+##### _By Vicky Jen| DH110: User Experience and Design_
 
 1. Heuristic Evaluation: https://github.com/vickyjen/DH110-22F-Vicky/tree/main/ASSIGNMENT01
 2. Usability Testing: https://github.com/vickyjen/DH110-22F-Vicky/tree/main/ASSIGNMENT02
