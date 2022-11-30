@@ -158,3 +158,6 @@ During classtime, we were given the opportunity to conduct a cognitive walkthrou
 ### Additional Comments from Cognitive Walkthrough
 - Use some form of label to show that the event has already been registered 
 - After registering for an event, return to the original event page instead of home to keep consistency
+
+## Summery of Cognitive Walkthrough 
+Overall, my classmates thought the interface was clean, self-explanatory and easy to use. This opportunity gave me a chance to recieve feedback with fresh perspectives without previous knowledge. However, I do wish we had more time to interact with everyone's prototype and leave more detailed responses to further elaborate upon minor improvments. 
