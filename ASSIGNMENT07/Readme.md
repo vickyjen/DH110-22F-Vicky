@@ -155,3 +155,6 @@ During classtime, we were given the opportunity to conduct a cognitive walkthrou
   </tr>
 </table>
 
+### Additional Comments from Cognitive Walkthrough
+- Use some form of label to show that the event has already been registered 
+- After registering for an event, return to the original event page instead of home to keep consistency
