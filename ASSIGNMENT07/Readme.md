@@ -23,6 +23,9 @@ Screenshot of prototype wireflow with interface design implemented.
 - [Figma Wireflow](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=79%3A4039&t=1z8BuzZiB4MpyLgh-1)
 - [Figma Prototype](https://www.figma.com/file/KB3imwQgNgGI63xchK8ihK/DH-110-Hi-Fi-Prototype---Assignment-07?node-id=1%3A3336&t=1z8BuzZiB4MpyLgh-1)
 
+## Cognitive Walkthrough 
+During classtime, we were given the opportunity to conduct a cognitive walkthrough with two other classmates. I presented my high fidelity prototype to them and asked them a variety of questions as shown below. They were given the chance to interact with the interface and leave comments as well.
+
 <table>
   <tr>
    <td>Please enter the name of designer whose work you are to review
